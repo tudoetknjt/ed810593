@@ -2,7 +2,7 @@
 
 Raw experimental results of the flight experiments.
 
-[![DOI](https://zenodo.org/badge/20743/tudoetknjt/c20cb397.svg)](https://zenodo.org/badge/latestdoi/20743/tudoetknjt/c20cb397)
+[![DOI](https://zenodo.org/badge/83199570.svg)](https://zenodo.org/badge/latestdoi/83199570)
 
 ## Signal Parameters
 
